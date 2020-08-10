@@ -3,7 +3,7 @@
 A Software developer looking to learn and to code to make the world a better and more open place.
 
 - 🔭 I’m currently working on the [Jellyfin Project](https://github.com/jellyfin)
-- 🌱 I’m currently learning [React](https://github.com/facebook/react), check out my work below
+- 🌱 I’m currently learning [Vue](https://github.com/vuejs/vue), check out my work below
 - 🤔 I’m looking for help with open source projects.
 - 💬 Ask me about anything!
 - 📫 Drop me an email at: cameron.clark@hey.com
