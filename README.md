@@ -1,6 +1,6 @@
 ## Hi there, I'm Cameron 👋👨‍💻
 
-A Software developer looking to learn and to code to make the world a better and more open place.
+A software developer looking to learn and to code to make the world a better and more open place.
 
 - 🔭 I’m currently working on the [Jellyfin Project](https://github.com/jellyfin)
 - 🌱 I’m currently learning [Vue](https://github.com/vuejs/vue), check out my work below
