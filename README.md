@@ -14,7 +14,3 @@ A software developer looking to learn and to code to make the world a better and
 <img  src="https://github-readme-stats.vercel.app/api?username=camc314&&show_icons=true&theme=dark&hide=stars&count_private=true&title_color=000000&bg_color=ffffff&text_color=565656&icon_color=0688ff"/>
   </a>
   </p>
-
-<p > 
-![](https://komarev.com/ghpvc/?username=camc314)
-</p>
