@@ -16,5 +16,5 @@ A software developer looking to learn and to code to make the world a better and
   </p>
 
 <p > 
-![](https://komarev.com/ghpvc/?camc314)
+![](https://komarev.com/ghpvc/?username=camc314)
 </p>
