@@ -2,12 +2,10 @@
 
 A software developer looking to learn and to code to make the world a better and more open place.
 
-- 🔭 I’m currently working on the [Jellyfin Project](https://github.com/jellyfin)
-- 🌱 I’m currently learning [Vue](https://github.com/vuejs/vue), check out my work below
+- 🌱 I’m currently working on projects with [React](https://reactjs.org/) and [Go](https://github.com)
 - 🤔 I’m looking for help with open source projects.
 - 💬 Ask me about anything!
 - 📫 Drop me an email at: cameron.clark@hey.com
-- ⚡ Did you know, over 3/4 of tech companies use open source software in their commercial projects. [Source](https://thenewstack.io/survey-open-source-programs-are-a-best-practice-among-large-companies/#:~:text=This%20survey%20supports%20those%20results,doing%20so%20with%20commercial%20products.)
 
 <p align="left" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
